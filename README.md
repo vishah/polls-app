@@ -1,1 +1,1 @@
-# A poll app
+# A small poll/survey app
