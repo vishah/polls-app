@@ -1,1 +1,1 @@
-# A small poll/survey app
+# A small poll/survey app made in flutter
